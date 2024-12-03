@@ -1,4 +1,4 @@
 *.class
-.metals
-.scala_build
-.bsp
+.metals/
+.scala-build/
+.bsp/
