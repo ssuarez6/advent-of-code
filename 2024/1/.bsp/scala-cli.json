@@ -1,0 +1,16 @@
+{
+  "name": "scala-cli",
+  "argv": [
+    "/Users/sansp/Library/Application Support/Coursier/bin/.scala-cli.aux",
+    "bsp",
+    "--json-options",
+    "/Users/sansp/Studyspace/advent-of-code/2024/1/.scala-build/ide-options-v2.json",
+    "/Users/sansp/Studyspace/advent-of-code/2024/1"
+  ],
+  "version": "1.2.2",
+  "bspVersion": "2.1.1",
+  "languages": [
+    "scala",
+    "java"
+  ]
+}
