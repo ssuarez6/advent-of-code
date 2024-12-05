@@ -12,11 +12,11 @@ object CeresSearch {
     val cols = if (rows > 0) lines(0).length else 0
     val directions = Seq(
       (0, 1), //horizontal right
+      (0, -1), //horizontal left
       (1, 0), //vertical down
+      (-1, 0), //vertical up
       (1, 1), //diagonal down right
       (1, -1), //diagonal down left
-      (0, -1), //horizontal left
-      (-1, 0), //vertical up
       (-1, -1), //diagonal up left
       (-1, 1) // diagonal up right
     )
